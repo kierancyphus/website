@@ -14,7 +14,7 @@ const Index = () => {
           description="Kieran Cyphus is an aspiring Machine Learning Engineer based in Toronto"
         />
       }
-    />
+    ></Main>
   )
 }
 
